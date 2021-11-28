@@ -13,4 +13,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/nik-bielykh-72a94b225/
-[gmail]: https://nikita.bielykh@gmail.com/
+[gmail]: mailto:nikita.bielykh@gmail.com
