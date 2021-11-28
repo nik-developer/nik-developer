@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="nik-developer | LinkedIn" width="22px" src="https://camo.githubusercontent.com/714c7b251906b02133a3da39491bdeb272f7e3fbec923dbc6d39a5987e8d33d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666f722d7468652d6261646765" />][linkedin]
-[<img align="left" alt="telegram" width="22px" height="22px" src="https://camo.githubusercontent.com/f9b042c3014785b4d4bc3b2f6a9a131a9c61e15acdb06f4ebf4d072c9db078db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3535353f6c6f676f3d74656c656772616d267374796c653d666f722d7468652d6261646765" />][telegram]
-[<img align="left" alt="email" width="22px" height="22px" src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.2/email.svg" />][gmail]
+[<img align="left" alt="nik-developer | LinkedIn" width="111px" height="28px" src="https://camo.githubusercontent.com/714c7b251906b02133a3da39491bdeb272f7e3fbec923dbc6d39a5987e8d33d1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564696e2d626c75653f6c6f676f3d6c696e6b6564696e267374796c653d666f722d7468652d6261646765" />][linkedin]
+[<img align="left" alt="telegram" width="111px" height="28px" src="https://camo.githubusercontent.com/f9b042c3014785b4d4bc3b2f6a9a131a9c61e15acdb06f4ebf4d072c9db078db/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f54656c656772616d2d3535353f6c6f676f3d74656c656772616d267374796c653d666f722d7468652d6261646765" />][telegram]
+[<img align="left" alt="email" width="28px"  src="https://cdn.jsdelivr.net/npm/@internetarchive/icon-email@1.3.2/email.svg" />][gmail]
 
 
 
