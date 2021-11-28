@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there 👋, my name is Nik.
 
+## I'm a FronEnd Developer
+- ⚡ I like to write code 
+- ✨ I constantly learning new things
+- 😄 I know that technology is the future.
+
+### Connect with me:
+
+[<img align="left" alt="nik-developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <!--
 **nik-developer/nik-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -11,6 +19,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+-  Pronouns: ...
 - ⚡ Fun fact: ...
 -->
