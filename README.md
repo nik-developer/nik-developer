@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Nik 👨‍💻
+# Hi there 👋, my name is Nik 👨‍💻
 
 ## I'm a FronEnd Developer
 - ✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React.
