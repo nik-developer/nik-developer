@@ -1,9 +1,10 @@
-### Hi there 👋, my name is Nik.
+### Hi there 👋, my name is Nik 👨‍💻
 
 ## I'm a FronEnd Developer
-- ⚡ I like to write code 
+- ✍🏼 My specialization is creating UI with HTML / CSS, JavaScript, React.
 - ✨ I constantly learning new things
-- 😄 I know that technology is the future.
+- 😛 English level: Intermediate
+- 🧠 I know that technology is the future.
 
 ### Connect with me:
 
@@ -30,11 +31,22 @@
 [<img align="left" alt="GIT" width="67px" height="28px" src="https://camo.githubusercontent.com/d390b682cfae5596c7085fe5192c69ba39dffa89b374e72877564bc6a4733916/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d3535353f6c6f676f3d676974267374796c653d666f722d7468652d6261646765" />][git]
 
 
+<br />
+
 [<img align="left" alt="PARCEL" width="82px" height="28px" src="https://camo.githubusercontent.com/11f9e445b1e402fee7d4d64ef994064c2dc4e1f171a3db948aafff20813d235b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f50617263656c2d3535353f6c6f676f3d70617263656c267374796c653d666f722d7468652d6261646765" />][parcel]
+
+
+<br />
 
 [<img align="left" alt="WEBPACK" width="107px" height="28px" src="https://camo.githubusercontent.com/11d026a051269c59d4da8808e61ed52c3a78fb5455b10f38e922e49353fcd71a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5765627061636b2d3535353f6c6f676f3d7765627061636b267374796c653d666f722d7468652d6261646765" />][webpack]
 
+
+<br />
+
 [<img align="left" alt="NPM" width="72px" height="28px" src="https://camo.githubusercontent.com/89ba0246cbeb75ae23f53b74e9e2eded19937b2f385c4210bd2758012cd72bb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e706d2d3535353f6c6f676f3d6e706d267374796c653d666f722d7468652d6261646765" />][npm]
+
+
+<br />
 
 [<img align="left" alt="BABEL" width="86px" height="28px" src="https://camo.githubusercontent.com/97177a23cf7969f4a00cb568c9befceea43b67038f94a5e1486d83079c5fab96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d3535353f6c6f676f3d626162656c267374796c653d666f722d7468652d6261646765" />][babel]
 
