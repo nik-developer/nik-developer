@@ -16,7 +16,24 @@
 
 ### My stack:
 
-[<img align="left" alt="HTML5" width="88px" height="28px" src="https://camo.githubusercontent.com/8280104c77ff20e7b7cd51e275376ad2bc440ae211591f104451602fec5b17bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3535353f6c6f676f3d68746d6c35267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/HTML5-555?logo=html5&amp;style=for-the-badge" />][html5]
+<p align="left">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
+  <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
+  <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a> 
+   <a href="https://material-ui.com/"> <img src="https://img.shields.io/badge/material-555?logo=material-ui&style=for-the-badge" alt="Material-UI" title="Material-UI" /></a> 
+  <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a> 
+  <a href="https://www.gnu.org/software/bash/" > <img src="https://img.shields.io/badge/Bash-555?logo=bash&style=for-the-badge" alt="bash" title="Bash" /></a> 
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
+  <a href="https://parceljs.org/"><img src="https://img.shields.io/badge/Parcel-555?logo=parcel&style=for-the-badge" alt="parsel" title="Parsel" /></a> 
+  <a href="https://webpack.js.org"><img src="https://img.shields.io/badge/Webpack-555?logo=webpack&style=for-the-badge" alt="webpack" title="Webpack" /></a>
+  <a href="https://www.npmjs.com/"> <img src="https://img.shields.io/badge/Npm-555?logo=npm&style=for-the-badge" alt="npm" title="NPM" /></a> 
+  <a href="https://babeljs.io/"> <img src="https://img.shields.io/badge/Babel-555?logo=babel&style=for-the-badge" alt="babel" title="Babel" /></a>
+</p>
+
+<!-- [<img align="left" alt="HTML5" width="88px" height="28px" src="https://camo.githubusercontent.com/8280104c77ff20e7b7cd51e275376ad2bc440ae211591f104451602fec5b17bc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d3535353f6c6f676f3d68746d6c35267374796c653d666f722d7468652d6261646765" data-canonical-src="https://img.shields.io/badge/HTML5-555?logo=html5&amp;style=for-the-badge" />][html5]
 
 [<img align="left" alt="CSS3" width="77px" height="28px" src="https://camo.githubusercontent.com/5d85c606f28faffaf6111880f71940f4f2c05011c219f39f3d5020bd946e9715/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3535353f6c6f676f3d63737333266c6f676f436f6c6f723d313537324236267374796c653d666f722d7468652d6261646765" />][css3]
 
@@ -40,7 +57,7 @@
 [<img align="left" alt="NPM" width="72px" height="28px" src="https://camo.githubusercontent.com/89ba0246cbeb75ae23f53b74e9e2eded19937b2f385c4210bd2758012cd72bb9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e706d2d3535353f6c6f676f3d6e706d267374796c653d666f722d7468652d6261646765" />][npm]
 
 
-[<img align="left" alt="BABEL" width="86px" height="28px" src="https://camo.githubusercontent.com/97177a23cf7969f4a00cb568c9befceea43b67038f94a5e1486d83079c5fab96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d3535353f6c6f676f3d626162656c267374796c653d666f722d7468652d6261646765" />][babel]
+[<img align="left" alt="BABEL" width="86px" height="28px" src="https://camo.githubusercontent.com/97177a23cf7969f4a00cb568c9befceea43b67038f94a5e1486d83079c5fab96/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f426162656c2d3535353f6c6f676f3d626162656c267374796c653d666f722d7468652d6261646765" />][babel] -->
 
 
 
