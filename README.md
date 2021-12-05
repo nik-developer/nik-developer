@@ -23,7 +23,7 @@
   <a href="https://sass-lang.com"><img src="https://img.shields.io/badge/SASS-555?logo=sass&style=for-the-badge" alt="sass" title="SASS" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/Javascript-555?logo=javascript&style=for-the-badge" alt="javascript" title="javascript" /></a>
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-555?logo=react&style=for-the-badge" alt="react" title="react" /></a>
-  <!-- <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a>  -->
+  <a href="https://react-redux.js.org/" > <img src="https://img.shields.io/badge/Redux-555?logo=redux&logoColor=764ABC&style=for-the-badge" alt="redux" title="redux" /></a> 
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a> 
   <a href="https://www.gnu.org/software/bash/" > <img src="https://img.shields.io/badge/Bash-555?logo=bash&style=for-the-badge" alt="bash" title="Bash" /></a> 
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-555?logo=git&style=for-the-badge" alt="git" title="Git" /></a> 
