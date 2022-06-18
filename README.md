@@ -33,7 +33,7 @@
   <a href="https://babeljs.io/"> <img src="https://img.shields.io/badge/Babel-555?logo=babel&style=for-the-badge" alt="babel" title="Babel" /></a>
 </p>
 
-[linkedin]: https://www.linkedin.com/in/nik-bielykh-72a94b225/
+[linkedin]: https://www.linkedin.com/in/nikita-bielykh-72a94b225
 [gmail]: mailto:nikita.bielykh@gmail.com
 [telegram]: https://t.me/nik_punx
 
